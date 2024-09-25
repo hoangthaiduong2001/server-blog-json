@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Duong1",
+      "author": "Duong1",
+      "content": "Duong1"
+    },
+    {
+      "id": 2,
+      "title": "Duong2",
+      "author": "Duong2",
+      "content": "Duong2"
+    },
+    {
+      "id": 3,
+      "title": "Duong3",
+      "author": "Duong3",
+      "content": "Duong3"
+    },
+    {
+      "id": 4,
+      "title": "Duong4",
+      "author": "Duong4",
+      "content": "Duong4"
+    },
+    {
+      "id": 5,
+      "title": "Duong5",
+      "author": "Duong5",
+      "content": "Duong5"
+    }
+  ]
+}
